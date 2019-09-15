@@ -1,0 +1,17 @@
+An Operating System (OS) acts as an interface connecting a computer user with the hardware of the computer.
+An operating system falls under the category of system software that performs all the fundamental tasks like
+file management, memory handling, process management, handling the input/output and governing and managing the
+peripheral devices like disk drives, networking hardware, printers, etc.
+
+Features of operating system
+Here is a list of some significant functions of an Operating System, which is found common, is almost all operating system:
+
+Memory Management
+Processor Managing
+Device Managing
+File handling
+Security Handling
+System performance controlling
+Job accounting and handling
+Error detecting and handling
+Synchronization with other software and users
